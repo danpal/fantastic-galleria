@@ -1,11 +1,15 @@
 Fantastic Galleria
 =========
 
-Fantastic Galleria is the old aino galleria 1.0. I tried using the new
-one, but found it to complex and buggy. After I tried finding the old
-version and failing, I ended up taking the source from an old cached
-version of google code, and fixing it to work with the latest jquery
+Fantastic Galleria is the old aino galleria 1.0. 
+I tried using the new one, but found it to complex and buggy. 
+
+After I tried finding the old version and failing, I ended up taking the source from an 
+old cached version of google code, and fixing it to work with the latest jquery
 1.4, and maintaining it myself.
+
+You can see this galleria in action in several sites like Airbnb.com and
+http://fantastic-galleria.heroku.com/
 
 Requirements
 ------------
